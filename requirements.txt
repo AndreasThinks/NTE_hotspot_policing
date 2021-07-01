@@ -1,0 +1,7 @@
+pandas
+statsmodels
+seaborn
+sklearn
+numpy
+scipy
+pmdarima
